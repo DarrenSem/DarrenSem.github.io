@@ -1,0 +1,11 @@
+# .gitignore
+
+**/history/
+**/ignored-research/
+**/ignored/
+**/research/
+
+/node_modules/
+package-lock.json
+
+/.vscode/
